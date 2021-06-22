@@ -1,9 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="655273e0-b9e0-4981-89a0-79c571a4fe54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/edit-profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/age.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/country.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/editprofile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/finnprofile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/highlights.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/job.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/newhighlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/plannings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/icons/profile/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/account-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/chalk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/highlight-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/highlight-board.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/highlight-board.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/profile-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/images/profile-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/history.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oFVg9rGJqFiAWkKFott5oz8t8o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="655273e0-b9e0-4981-89a0-79c571a4fe54" name="Default Changelist" comment="" />
+      <created>1612882433946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612882433946</updated>
+      <workItem from="1612882437086" duration="657000" />
+      <workItem from="1615538752016" duration="4000" />
+      <workItem from="1615816746073" duration="3000" />
+      <workItem from="1615818974196" duration="244000" />
+      <workItem from="1615884224457" duration="417000" />
+      <workItem from="1615971460307" duration="6000" />
+      <workItem from="1616239916049" duration="2485000" />
+      <workItem from="1616246504787" duration="3460000" />
+      <workItem from="1616261371128" duration="2660000" />
+      <workItem from="1616317461878" duration="14063000" />
+      <workItem from="1616340578226" duration="1836000" />
+      <workItem from="1616490248828" duration="47000" />
+      <workItem from="1616590379190" duration="3335000" />
+      <workItem from="1616596660711" duration="9632000" />
+      <workItem from="1616663082220" duration="12000" />
+      <workItem from="1616831131138" duration="262000" />
+      <workItem from="1617122204141" duration="5462000" />
+      <workItem from="1617172739516" duration="15674000" />
+      <workItem from="1617262829432" duration="1941000" />
+      <workItem from="1617281248651" duration="111000" />
+      <workItem from="1618048050861" duration="8588000" />
+      <workItem from="1618321235154" duration="6438000" />
+      <workItem from="1618820767014" duration="9006000" />
+      <workItem from="1618904197333" duration="5758000" />
+      <workItem from="1618912180759" duration="11875000" />
+      <workItem from="1618985283095" duration="4244000" />
+      <workItem from="1618998011115" duration="11482000" />
+      <workItem from="1619443585379" duration="5318000" />
+      <workItem from="1620881548557" duration="654000" />
+      <workItem from="1621173035128" duration="25000" />
+      <workItem from="1621844867249" duration="11000" />
+      <workItem from="1622033326101" duration="9040000" />
+      <workItem from="1622123486213" duration="4998000" />
+      <workItem from="1622989909039" duration="750000" />
+      <workItem from="1623176690557" duration="248000" />
+      <workItem from="1623307923746" duration="239000" />
+      <workItem from="1623323475146" duration="1636000" />
+      <workItem from="1623844151512" duration="4941000" />
+      <workItem from="1623904862891" duration="32000" />
+      <workItem from="1623906085846" duration="5473000" />
+      <workItem from="1624182925491" duration="2268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

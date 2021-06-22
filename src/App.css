@@ -1,38 +1,114 @@
-.App {
-  text-align: center;
+body{
+    background-color: rgba(186, 200, 137, 0.51);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.login-input{
+    width: 500px;
+    margin-top: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.login-input-button{
+    width: 500px;
+    margin-top: 10px;
+    background-color: rgba(92, 230, 125, 0.7);
+    font-weight: bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.login-input-button:hover{
+    background-color: rgba(92, 230, 125, 1);
+    font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.border-down{
+    border-style: solid;
+    border-width: 0 0 2px 0;
+    border-color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.login-content{
+    margin-top: 20px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.div-transparent{
+    background-color: rgba(173, 216, 230, 0.68);
+}
+
+.div-transparent-dark{
+    background-color: rgba(173, 216, 230, 0.91);
+}
+
+.navbar-brand{
+    color: black;
+    font-family: "Brush Script MT";
+    font-size: 30px;
+}
+
+.signup-link{
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.signup-div{
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgba(92, 230, 125, 0.7);
+}
+
+.signup-div:hover{
+    background-color: rgba(92, 230, 125, 1);
+}
+
+.signup-link-text{
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.login-label{
+    color: black;
+    cursor: pointer;
+}
+
+.login-icon-label{
+    text-align: center;
+    align-items: center;
+}
+
+.borders-all{
+    border-style: solid;
+    border-width: 2px;
+}
+
+.home-container{
+    background-color: rgba(40, 158, 190, 0.9);
+    border-style: solid;
+    border-width: 0 4px 4px 4px;
+    border-color: black;
+}
+
+.borders-all{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.error-message-text{
+    color: red;
+    font-weight: bold;
+}
+
+.log-out-button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+}
+
+.log-out-button:focus{
+    background-color: transparent;
+    outline: none;
+    border: none;
 }

@@ -1,0 +1,168 @@
+.profile-container{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    background-image: url("../graphics/images/profile-background.jpg");
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+
+.profile-header{
+    border-style: solid;
+    border-color: black;
+    border-width: 4px 0 4px 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.profile-pic-container{
+    padding: 20px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    background-color: rgba(87, 190, 244, 0.91);
+}
+.profile-pic{
+    width: 64px;
+    height: 64px;
+}
+
+.name-container{
+    margin: auto;
+}
+
+.edit-profile{
+    margin: auto;
+}
+
+.edit-profile:hover{
+    margin: auto;
+    font-size: 20px;
+}
+
+.edit-profile-label{
+    color: black;
+}
+
+.edit-profile-label:hover{
+    cursor: pointer;
+}
+
+.personal-info-col{
+    background-color: rgba(255, 255, 255, 0.5);
+    border-style: solid;
+    border-width: 0 5px 0 0;
+    margin-right: 10px;
+    width: 30%;
+}
+
+.profile-info-col{
+    border-style: solid;
+    border-width: 0 0 0 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 30%;
+}
+
+.info-row{
+    padding-top: 10px;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px 0 4px 0;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.info-element-row{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.separate-cols{
+    border-style: solid;
+    border-width: 0 0 0 2px;
+}
+
+.info-label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.new-highlight-row{
+    width: 50%;
+    margin: auto;
+
+}
+
+.new-highlight-label{
+    font-size: 25px;
+    font-family: "Brush Script MT";
+    text-decoration: underline;
+    color: whitesmoke;
+}
+
+.new-highlight-label:hover{
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+.highlight-board{
+    background-image: url("../graphics/images/highlight-board.jfif");
+    background-size: cover;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(164, 116, 73);
+    margin-top: 20px;
+}
+
+.create-highlight-row{
+    margin-top: 20px;
+
+}
+
+.create-highlight-col{
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: whitesmoke;
+}
+
+.input-row{
+    margin-bottom: 10px;
+}
+
+.title-input{
+    width: 500px;
+    font-size: 40px;
+    border: none;
+    background-color: transparent;
+    font-family: "Brush Script MT";
+}
+
+.description-input{
+    width: 500px;
+    font-size: 30px;
+    border: none;
+    background-color: transparent;
+    font-family: "Brush Script MT";
+}
+
+.save-highlight-button
+{
+    width: 300px;
+    font-size: 25px;
+    border: none;
+    font-family: "Brush Script MT";
+    color: whitesmoke;
+    background-color: transparent;
+}
+
+.save-highlight-button:hover
+{
+    font-size: 30px;
+}

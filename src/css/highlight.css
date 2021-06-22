@@ -1,0 +1,25 @@
+.highlight-container{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.highlight-section-title{
+    font-family: "Brush Script MT";
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.underline-title{
+    border-style: solid;
+    border-width: 0 0 3px 0;
+    border-color: whitesmoke;
+}
+
+.highlight-section-description{
+    border-style: solid;
+    font-family: "Brush Script MT";
+    color: whitesmoke;
+    font-size: 35px;
+    border-width: 0 0 3px 0;
+    border-color: whitesmoke;
+}
